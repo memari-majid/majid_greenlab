@@ -6,7 +6,7 @@ description: We develop computational models utilizing large-scale user-generate
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: greenlab
+baseurl: https://memari-majid.github.io/greenlab/
 
 # site social media and other links
 links:
