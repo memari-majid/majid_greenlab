@@ -4,8 +4,7 @@ title: Home
 
 # Your Lab Slogan
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Welcome to the official website of our Natural Language Processing (NLP) lab, where we conduct cutting-edge research on analyzing social media text using computational linguistics techniques. Our team of expert researchers is dedicated to exploring the vast potential of NLP in uncovering the hidden insights and patterns present in social media data, such as Facebook posts, tweets, and online reviews.
 
 {%
   include link.html
