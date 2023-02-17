@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Computational Social Listening Lab | UPenn
 
 Welcome to the official website of our Natural Language Processing (NLP) lab, where we conduct cutting-edge research on analyzing social media text using computational linguistics techniques. Our team of expert researchers is dedicated to exploring the vast potential of NLP in uncovering the hidden insights and patterns present in social media data, such as Facebook posts, tweets, and online reviews.
 
